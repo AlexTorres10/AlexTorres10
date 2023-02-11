@@ -2,9 +2,9 @@
 
 🖥️ A computação sempre foi uma amiga íntima minha. Aos 3 anos (ou 4), meu pai chegou com um computador na minha casa e eu estava totalmente curioso para ver aquilo. Ele tentou ensinar a minha mãe como mexer nele e eu vendo tudo. Quando eles saíram do computador e foram dormir, lá estava eu fazendo tudo o que meu pai tinha ensinado. Virei a noite ali, até a minha mãe acordar e gritar **"AMOR, VEM VER O QUE O ALEX ESTÁ FAZENDO!"**.
 
-💻 Desde então sempre tive essa curiosidade com informática. E desde pequeno era o "especialista" em mexer no computador. Não à toa, quando me formei no Ensino Médio, escolhi fazer **Engenharia de Computação na UEA**. Já estou perto de formar, e estou com o TCC no processo.
+💻 Desde então sempre tive essa curiosidade com informática. E desde pequeno era o "especialista" em mexer no computador. Não à toa, quando me formei no Ensino Médio, escolhi fazer **Engenharia de Computação na UEA**. Hoje estou graduado e trabalhando na área.
 
-- 🔭 Atualmente sou **Trainee Digital** na Bemol.
+- 🔭 Atualmente sou **Engenheiro de Software Jr.** na Bemol.
 - 🌱 Estou aprendendo Redes Neurais Artificiais, bem como me aprofundando em modelos de Aprendizado de Máquina.
 - 💡 Além de IA, posso trabalhar com Sistemas Embarcados (Arduino, Raspberry) e qualquer coisa que dê pra fazer com Python.
 - 🤔 Pretendo aprender mais sobre Programação Web e Segurança da Informação.
