@@ -4,7 +4,7 @@
 
 💻 Desde então sempre tive essa curiosidade com informática. E desde pequeno era o "especialista" em mexer no computador. Não à toa, quando me formei no Ensino Médio, escolhi fazer **Engenharia de Computação na UEA**. Hoje estou graduado e trabalhando na área.
 
-- 🔭 Atualmente sou **Engenheiro de Software Jr.** na Bemol.
+- 🔭 Atualmente sou **Software Engineer I** na Bemol.
 - 🌱 Estou aprendendo Redes Neurais Artificiais, bem como me aprofundando em modelos de Aprendizado de Máquina.
 - 💡 Além de IA, posso trabalhar com Sistemas Embarcados (Arduino, Raspberry) e qualquer coisa que dê pra fazer com Python.
 - 🤔 Pretendo aprender mais sobre Programação Web e Segurança da Informação.
