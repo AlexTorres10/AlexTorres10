@@ -5,7 +5,7 @@
 💻 Desde então sempre tive essa curiosidade com informática. E desde pequeno era o "especialista" em mexer no computador. Não à toa, quando me formei no Ensino Médio, escolhi fazer **Engenharia de Computação na UEA**. Hoje estou graduado e trabalhando na área.
 
 - 🔭 Atualmente sou **Software Engineer I** na Bemol. Mas já trabalhei para o exterior por um período...
-- 🌱 Estou fazendo uma pós-graduação da PUC Minas em Inteligência Artificial e Aprendizado de Máquina.
+- 🌱 Concluí uma pós-graduação da PUC Minas em Inteligência Artificial e Aprendizado de Máquina.
 - 💡 Além de IA, posso trabalhar com Sistemas Embarcados (Arduino, Raspberry) e qualquer coisa que dê pra fazer com Python.
 - 🤔 Pretendo aprender mais sobre Programação Web e Segurança da Informação.
 - 📫 [Meu Facebook](https://facebook.com/AlexTowerss10/) (Manda mensagem dizendo que veio pelo meu Github!)
